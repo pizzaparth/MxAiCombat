@@ -1,0 +1,18 @@
+===========================================
+EVALUATION RESULTS [TTA=ON]
+Mean IoU: 0.5023
+Pixel Accuracy: 0.8127
+===========================================
+Background		: 0.1211
+Trees			: 0.6876
+Lush Bushes		: 0.6598
+Dry Grass		: 0.6014
+Dry Bushes		: 0.6337
+Ground Clutter		: 0.1871
+Logs			: 0.1319
+Rocks			: 0.2452
+Landscapes		: 0.7891
+Sky			: 0.9667
+
+Metrices saved to ./predictions/
+All output saved to ./predictions/
